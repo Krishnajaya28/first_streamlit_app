@@ -7,5 +7,3 @@ first_streamlit_app ∙ main ∙ streamlit_app.py
 
 streamlit.text("Hello from Snowflake:")
 streamlit.text(my_data_row)
-
- #ps -fA | grep python
